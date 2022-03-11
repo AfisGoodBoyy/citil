@@ -1,0 +1,63 @@
+const allv = `╭──(           VBotz🎭          )
+║-Sc Private〽️
+│🎭 Nomor : 
+║▬▭▬▭▬▭▬▭▬▭
+│🎭 Creator : wa.me/6285339388512
+║🎭 Creator2 : wa.me/6283805473872
+│🎭 Owner : ${namaowner}
+║🎭 Owner Number : wa.me/${fakee}
+│🎭 Prefix :MULTI
+║▬▭「 Ranz X Pak Tzy 」▭▬
+│
+║ Ranz Botz Chenel : http://bit.ly/RanzBotzYt
+│
+║ Pak Tzy〽️ Chenel : http://bit.ly/PakTzyYt
+│
+║▬▭▬▭▬▭▬▭▬▭
+│
+┗━━━━━━━━━━━━━━━━━━⬣
+┏━━━━━━━━━━━━━━━━━━⬣
+║┏⊱
+│║- Sc Private〽️
+║┗⊱
+┗━━━━━━━━━━━━━━━━━━⬣
+┏━━━━━━━━━━━━━━━━━━⬣
+║┏⊱
+│⿻ *.self
+║⿻ *.public
+│⿻ *.kick @tag
+║⿻ *.add 628**
+│⿻ *.promote @tag
+║⿻ *.demote @tag
+│⿻ *.group tutup
+║⿻ *.group buka
+│⿻ *.owner
+║┗⊱
+┗━━━━━━━━━━━━━━━━━━⬣
+╔─═─═⊱ *「 MENU 」* ─═─═⬣
+│┏⊱
+║⿻ *.groupmenu*
+│⿻ *.ownermenu*
+║⿻ *.searchmenu*
+│⿻ *.convertmenu*
+║⿻ *.audiomenu*
+│⿻ *.animemenu*
+║⿻ *.makermenu*
+│⿻ *.pornmenu*
+║⿻ *.randommenu*
+│⿻ *.othermenu*
+║⿻ *.vidtawuran*
+│┗⊱
+┗━━━━━━━━━━━━━━━━━━⬣
+┏━━⬣  Thanks To 〽️
+┃ 🔥 RANZ
+┃ 🔥 PAK TZY
+┃ 🔥 Arifi Razaq OFFICIAL
+┃ 🔥 HANZ OFC
+┃ 🔥 THUNDER
+┃ 🔥 BOT INDO
+┃ 🔥 MHANKAKBAR
+┃ 🔥 Xenn Bot
+┗━━⬣  ⿻ VBotz🎭 ⿻️
+`
+exports.allv = allv
